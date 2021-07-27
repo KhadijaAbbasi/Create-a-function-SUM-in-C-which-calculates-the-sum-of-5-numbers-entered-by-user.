@@ -1,0 +1,1 @@
+# Create-a-function-SUM-in-C-which-calculates-the-sum-of-5-numbers-entered-by-user.
